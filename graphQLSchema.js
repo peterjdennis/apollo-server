@@ -23,7 +23,7 @@ type Mutation {
 } `
 
 
-const db_url = 'mongodb+srv://pjdennis:Amstel12@cluster0.urucy.mongodb.net/?retryWrites=true&w=majority';
+const db_url = 'mongodb+srv://pjdennis:password@cluster0.urucy.mongodb.net/?retryWrites=true&w=majority';
 
 
 const connect = async () => {
